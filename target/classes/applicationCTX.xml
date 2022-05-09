@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans http://www.springframework.org/schema/beans/spring-beans.xsd">
+
+	<bean id = "pencil" class = "com.spellhaven.springtest4_050904.Pencil6BwithEraser"></bean>
+	<!-- 와. 여기 쓰여 있는 class만 바꾸면 자바로 쓴 파일들은 하나도 바꿀 필요 없네~~~ 지렸다 와~~~ -->
+	<!-- 유지보수가너무쉬울거같애~~!! -->
+
+</beans>
